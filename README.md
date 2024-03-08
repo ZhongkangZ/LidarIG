@@ -43,7 +43,7 @@ mkdir models/vir_point
 ```bash
 cd repositories
 git clone https://github.com/xingyizhou/CenterNet2
-git clone [https://github.com/Stability-AI/stablediffusion](https://tianweiy.github.io/mvp/)
+git clone https://tianweiy.github.io/mvp
 mv vir_point vir_point-ai
 cd ..
 ```
