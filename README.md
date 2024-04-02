@@ -1,4 +1,4 @@
-## M3D-DVC: A Multimodal 3D Detection and Voxel Completion Framework Using Virtual Point Clouds from Coarse to Fine
+## C2FiPCN: A Coarse-to-Fine Image-Guided 3D Object Detection Point Cloud Generation Network
 
 ## It will be improved later...
 
@@ -10,11 +10,11 @@
     <td width=100% style="border: none"><img src="assert/overview.png" style="width:100%"></td>
     </tr>
     <tr>
-    <td width="100%" style="border: none; text-align: center; word-wrap: break-word">Overview of our M3D-DVC
+    <td width="100%" style="border: none; text-align: center; word-wrap: break-word">Overview of our C2FiPCN
 </td>
   </tr>
 
-  **Abstract**: Multi-modal 3D object detection, and emphasize the use of virtual point cloud completion technology, point cloud voxelization technology, and coarse-to-fine manner, here is an example:
+  **Abstract**: Multi-modal 3D object detection, and emphasize the use of virtual point cloud generation technology, point cloud voxelization technology, and coarse-to-fine manner, here is an example:
 
 <table class="center">
     <tr>
