@@ -33,9 +33,9 @@
 
 ```bash
 git clone https://github.com/ZhongkangZ/C2FiPCN
-cd M3D-DVC
-conda create -n M3D-DVC python==3.7
-conda activate M3D-DVC
+cd C2FiPCN
+conda create -n C2FiPCN python==3.7
+conda activate C2FiPCN
 pip install -r requirements.txt
 mkdir repositories
 mkdir -p generated_vir/demo_virpoint
