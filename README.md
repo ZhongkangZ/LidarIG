@@ -32,7 +32,7 @@
 **1. Set Environment**
 
 ```bash
-git clone https://github.com/ZhongkangZ/M3D-DVC
+git clone https://github.com/ZhongkangZ/C2FiPCN
 cd M3D-DVC
 conda create -n M3D-DVC python==3.7
 conda activate M3D-DVC
