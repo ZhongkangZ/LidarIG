@@ -1,4 +1,4 @@
-## C2FiPCN: A Coarse-to-Fine Image-Guided 3D Object Detection Point Cloud Generation Network
+## LidarIG: A Image-Guided Point Cloud  Generation  via  Coarse-to-Fine Network for 3D Object Detetion
 
 ## It will be improved later...
 
@@ -32,10 +32,10 @@
 **1. Set Environment**
 
 ```bash
-git clone https://github.com/ZhongkangZ/C2FiPCN
+git clone https://github.com/ZhongkangZ/LidarIG
 cd C2FiPCN
-conda create -n C2FiPCN python==3.7
-conda activate C2FiPCN
+conda create -n LidarIG python==3.7
+conda activate LidarIG
 pip install -r requirements.txt
 mkdir repositories
 mkdir -p generated_vir/demo_virpoint
