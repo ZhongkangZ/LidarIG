@@ -29,23 +29,4 @@
 
 ## Preparations
 
-**1. Set Environment**
-
-```bash
-git clone https://github.com/ZhongkangZ/LidarIG
-cd C2FiPCN
-conda create -n LidarIG python==3.7
-conda activate LidarIG
-pip install -r requirements.txt
-mkdir repositories
-mkdir -p generated_vir/demo_virpoint
-mkdir models/vir_point
-```
-**2. Download Libraries**
-```bash
-cd repositories
-git clone https://github.com/xingyizhou/CenterNet2
-git clone https://tianweiy.github.io/mvp
-mv vir_point vir_point-ai
-cd ..
-```
+Coming soon...
