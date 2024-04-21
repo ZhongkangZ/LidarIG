@@ -1,4 +1,4 @@
-## LidarIG: A Image-Guided Point Cloud  Generation  via  Coarse-to-Fine Network for 3D Object Detetion
+## LidarIG: Coarse to Fine-based Image–Point Cloud Fusion Network for 3D Object Detection
 
 ## It will be improved later...
 
